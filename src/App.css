@@ -1,0 +1,13 @@
+.App {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+  }
+
+.nav {
+  padding: 15px;
+}
+
+.button {
+  margin-right: 15px;
+}
